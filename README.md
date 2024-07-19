@@ -1,1 +1,1 @@
-# Online-Shopping-DataBase-Management-System-Project
+# Online-Shopping-Management-System-Project
